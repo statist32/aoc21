@@ -1,6 +1,3 @@
-import sys
-
-
 class BingoSheet:
     def __init__(self, sheet):
         self.sheet = sheet
